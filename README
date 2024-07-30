@@ -1,0 +1,101 @@
+# Language Model Web Application
+
+This project is a web application that utilizes a language model to interact with users via WebSocket connections. The application also performs document loading, currency exchange lookup, and HS code information retrieval.
+
+## Project Structure
+
+The project is divided into several modules to ensure that each component has its own responsibilities and the code is easier to maintain:
+
+- **db_operations.py**: Handles all database interactions such as creating tables, inserting messages, and creating conversations.
+- **llm_config.py**: Configures the language model and sets up the agent executor.
+- **meilisearch_operations.py**: Manages Meilisearch operations, such as retrieving currency exchange rates and HS codes.
+- **document_loader.py**: Loads documents and sets up the vector database for retrieving FAQ information.
+- **server.py**: Manages Socket.IO events and responses, and initiates the application server.
+
+## Setup
+
+### Prerequisites
+
+Make sure you have Python 3.8+ installed on your machine. You will also need the following Python packages:
+
+- `meilisearch`
+- `flask`
+- `socketio`
+- `vertexai`
+- `langchain`
+- `aiohttp`
+- `sqlite3`
+- `queue`
+- `threading`
+- `concurrent.futures`
+- `base64`
+- `easyocr`
+
+You can install the required packages using `pip`:
+
+```bash
+pip install meilisearch flask socketio vertexai langchain aiohttp sqlite3 queue threading concurrent.futures base64 easyocr
+```
+
+### Configuration
+
+#### Meilisearch Configuration
+
+Make sure Meilisearch is running locally on `http://127.0.0.1:7700` and the master key is set to `masterKey`. Adjust the Meilisearch configuration in `meilisearch_operations.py` if needed.
+
+#### Language Model Configuration
+
+Ensure you have access to the VertexAI language model and appropriately configure it in `llm_config.py`.
+
+### Database Initialization
+
+Run the server once to initialize the database:
+
+```bash
+python server.py
+```
+
+### Running the Application
+
+To start the server, run the following command:
+
+```bash
+python server.py
+```
+
+The server will start and you can connect to it via WebSocket on the specified port.
+
+## Usage
+
+### WebSocket Events
+
+- **connect**: Establishes a connection and confirms with a 'Connected' response.
+- **run_agent_starting**: Initiates a new conversation thread and starts interacting with the language model.
+- **run_agent**: Continues an existing conversation thread and processes user messages.
+
+### Tools
+
+The application supports several tools to enhance interaction:
+
+- **get_currency**: Retrieves currency exchange rates from a static JSON file.
+- **get_hs_code**: Retrieves HS code information from Meilisearch.
+- **search_hs_code_info**: Searches for HS codes based on a goods name.
+- **search_faq_info**: Searches a vector database for frequently asked questions (FAQs) information.
+
+### Document Loading
+
+Documents from the Beacukai FAQ pages are loaded into a vector database for querying. The initial document loading can be time-consuming and is controlled via the `LOAD` variable in `document_loader.py`.
+
+## Notes
+
+- This setup assumes you have a file named `exchanges.json` containing currency exchange rates in the root directory.
+- The `output.jsonl` file should contain URLs for the documents to be loaded.
+- The `sysprompt.txt` file should contain the system prompt message.
+
+## Contributing
+
+Feel free to open issues or submit pull requests to improve the project.
+
+## License
+
+This project is open-source and available under the MIT License.

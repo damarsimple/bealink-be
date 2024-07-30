@@ -1,0 +1,3602 @@
+[
+    {
+      "_index": "insw_hscode",
+      "_id": "1",
+      "_score": null,
+      "_source": {
+        "uraian_id": "Kuda, keledai, bagal dan hinnie, hidup.",
+        "id_btbmi": 1,
+        "hs_code": "01.01",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:04.441314624Z",
+        "hs_code_format": "0101",
+        "uraian_en": "Live horses, asses, mules and hinnies."
+      },
+      "sort": [
+        "0101"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "2",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Kuda :",
+        "id_btbmi": 2,
+        "hs_code": null,
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.641771933Z",
+        "hs_code_format": "010120",
+        "uraian_en": "- Horses :"
+      },
+      "sort": [
+        "010120"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "3",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Bibit",
+        "id_btbmi": 3,
+        "hs_code": "0101.21.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.641791610Z",
+        "hs_code_format": "01012100",
+        "uraian_en": "- - Pure-bred breeding animals"
+      },
+      "sort": [
+        "01012100"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "4",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Lain-lain",
+        "id_btbmi": 4,
+        "hs_code": "0101.29.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.641831084Z",
+        "hs_code_format": "01012900",
+        "uraian_en": "- - Other"
+      },
+      "sort": [
+        "01012900"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "5",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Keledai :",
+        "id_btbmi": 5,
+        "hs_code": "0101.30",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.641851082Z",
+        "hs_code_format": "010130",
+        "uraian_en": "- Asses :"
+      },
+      "sort": [
+        "010130"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "6",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Bibit",
+        "id_btbmi": 6,
+        "hs_code": "0101.30.10",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.641877061Z",
+        "hs_code_format": "01013010",
+        "uraian_en": "- - Pure-bred breeding animals"
+      },
+      "sort": [
+        "01013010"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "7",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Lain-lain",
+        "id_btbmi": 7,
+        "hs_code": "0101.30.90",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.641903901Z",
+        "hs_code_format": "01013090",
+        "uraian_en": "- - Other"
+      },
+      "sort": [
+        "01013090"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "8",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Lain-lain",
+        "id_btbmi": 8,
+        "hs_code": "0101.90.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.641059958Z",
+        "hs_code_format": "01019000",
+        "uraian_en": "- Other"
+      },
+      "sort": [
+        "01019000"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "9",
+      "_score": null,
+      "_source": {
+        "uraian_id": "Binatang hidup jenis lembu.",
+        "id_btbmi": 9,
+        "hs_code": "01.02",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:04.441926221Z",
+        "hs_code_format": "0102",
+        "uraian_en": "Live bovine animals."
+      },
+      "sort": [
+        "0102"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "10",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Sapi :",
+        "id_btbmi": 10,
+        "hs_code": null,
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.641924129Z",
+        "hs_code_format": "010220",
+        "uraian_en": "- Cattle :"
+      },
+      "sort": [
+        "010220"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "11",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Bibit",
+        "id_btbmi": 11,
+        "hs_code": "0102.21.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.641079795Z",
+        "hs_code_format": "01022100",
+        "uraian_en": "- - Pure-bred breeding animals"
+      },
+      "sort": [
+        "01022100"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "12",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Lain-lain :",
+        "id_btbmi": 12,
+        "hs_code": "0102.29",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.641099592Z",
+        "hs_code_format": "010229",
+        "uraian_en": "- - Other :"
+      },
+      "sort": [
+        "010229"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "13",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Sapi jantan :",
+        "id_btbmi": 13,
+        "hs_code": null,
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.641207926Z",
+        "hs_code_format": "01022910",
+        "uraian_en": "- - - Male cattle :"
+      },
+      "sort": [
+        "01022910"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "14",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - - Oxen",
+        "id_btbmi": 14,
+        "hs_code": "0102.29.11",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.641227623Z",
+        "hs_code_format": "01022911",
+        "uraian_en": "- - - - Oxen"
+      },
+      "sort": [
+        "01022911"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "15",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - - Lain-lain",
+        "id_btbmi": 15,
+        "hs_code": "0102.29.19",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.641259042Z",
+        "hs_code_format": "01022919",
+        "uraian_en": "- - - - Other"
+      },
+      "sort": [
+        "01022919"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "16",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Lain-lain",
+        "id_btbmi": 16,
+        "hs_code": "0102.29.90",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.641279760Z",
+        "hs_code_format": "01022990",
+        "uraian_en": "- - - Other"
+      },
+      "sort": [
+        "01022990"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "17",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Kerbau :",
+        "id_btbmi": 17,
+        "hs_code": null,
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.641299247Z",
+        "hs_code_format": "010230",
+        "uraian_en": "- Buffalo :"
+      },
+      "sort": [
+        "010230"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "18",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Bibit",
+        "id_btbmi": 18,
+        "hs_code": "0102.31.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.641319064Z",
+        "hs_code_format": "01023100",
+        "uraian_en": "- - Pure-bred breeding animals"
+      },
+      "sort": [
+        "01023100"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "19",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Lain-lain",
+        "id_btbmi": 19,
+        "hs_code": "0102.39.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.641420284Z",
+        "hs_code_format": "01023900",
+        "uraian_en": "- - Other"
+      },
+      "sort": [
+        "01023900"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "20",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Lain-lain :",
+        "id_btbmi": 20,
+        "hs_code": "0102.90",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.641440301Z",
+        "hs_code_format": "010290",
+        "uraian_en": "- Other :"
+      },
+      "sort": [
+        "010290"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "21",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Bibit",
+        "id_btbmi": 21,
+        "hs_code": "0102.90.10",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.641460149Z",
+        "hs_code_format": "01029010",
+        "uraian_en": "- - Pure-bred breeding animals"
+      },
+      "sort": [
+        "01029010"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "22",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Lain-lain",
+        "id_btbmi": 22,
+        "hs_code": "0102.90.90",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.641479765Z",
+        "hs_code_format": "01029090",
+        "uraian_en": "- - Other"
+      },
+      "sort": [
+        "01029090"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "23",
+      "_score": null,
+      "_source": {
+        "uraian_id": "Babi hidup.",
+        "id_btbmi": 23,
+        "hs_code": "01.03",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:04.441947831Z",
+        "hs_code_format": "0103",
+        "uraian_en": "Live swine."
+      },
+      "sort": [
+        "0103"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "24",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Bibit",
+        "id_btbmi": 24,
+        "hs_code": "0103.10.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.641506095Z",
+        "hs_code_format": "01031000",
+        "uraian_en": "- Pure-bred breeding animals"
+      },
+      "sort": [
+        "01031000"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "25",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Lain-lain :",
+        "id_btbmi": 25,
+        "hs_code": null,
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.639703454Z",
+        "hs_code_format": "010390",
+        "uraian_en": "- Other :"
+      },
+      "sort": [
+        "010390"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "26",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Berat kurang dari 50 kg",
+        "id_btbmi": 26,
+        "hs_code": "0103.91.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.639723161Z",
+        "hs_code_format": "01039100",
+        "uraian_en": "- - Weighing less than 50 kg"
+      },
+      "sort": [
+        "01039100"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "27",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Berat 50 kg atau lebih",
+        "id_btbmi": 27,
+        "hs_code": "0103.92.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.639742828Z",
+        "hs_code_format": "01039200",
+        "uraian_en": "- - Weighing 50 kg or more"
+      },
+      "sort": [
+        "01039200"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "28",
+      "_score": null,
+      "_source": {
+        "uraian_id": "Biri-biri dan kambing, hidup.",
+        "id_btbmi": 28,
+        "hs_code": "01.04",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:04.441969432Z",
+        "hs_code_format": "0104",
+        "uraian_en": "Live sheep and goats."
+      },
+      "sort": [
+        "0104"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "29",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Biri-biri :",
+        "id_btbmi": 29,
+        "hs_code": "0104.10",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.639762685Z",
+        "hs_code_format": "010410",
+        "uraian_en": "- Sheep :"
+      },
+      "sort": [
+        "010410"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "30",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Bibit",
+        "id_btbmi": 30,
+        "hs_code": "0104.10.10",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.639782402Z",
+        "hs_code_format": "01041010",
+        "uraian_en": "- - Pure-bred breeding animals"
+      },
+      "sort": [
+        "01041010"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "31",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Lain-lain",
+        "id_btbmi": 31,
+        "hs_code": "0104.10.90",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.639818530Z",
+        "hs_code_format": "01041090",
+        "uraian_en": "- - Other"
+      },
+      "sort": [
+        "01041090"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "32",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Kambing :",
+        "id_btbmi": 32,
+        "hs_code": "0104.20",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.639839028Z",
+        "hs_code_format": "010420",
+        "uraian_en": "- Goats :"
+      },
+      "sort": [
+        "010420"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "33",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Bibit",
+        "id_btbmi": 33,
+        "hs_code": "0104.20.10",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.639858835Z",
+        "hs_code_format": "01042010",
+        "uraian_en": "- - Pure-bred breeding animals"
+      },
+      "sort": [
+        "01042010"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "34",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Lain-lain",
+        "id_btbmi": 34,
+        "hs_code": "0104.20.90",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.639885836Z",
+        "hs_code_format": "01042090",
+        "uraian_en": "- - Other"
+      },
+      "sort": [
+        "01042090"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "35",
+      "_score": null,
+      "_source": {
+        "uraian_id": "Unggas hidup, yaitu ayam dari spesies Gallus domesticus, bebek, angsa, kalkun dan ayam guinea.",
+        "id_btbmi": 35,
+        "hs_code": "01.05",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:04.442000871Z",
+        "hs_code_format": "0105",
+        "uraian_en": "Live poultry, that is to say, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls."
+      },
+      "sort": [
+        "0105"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "36",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Berat tidak lebih dari 185 g :",
+        "id_btbmi": 36,
+        "hs_code": null,
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.639905573Z",
+        "hs_code_format": "010510",
+        "uraian_en": "- Weighing not more than 185 g :"
+      },
+      "sort": [
+        "010510"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "37",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Ayam dari spesies Gallus domesticus :",
+        "id_btbmi": 37,
+        "hs_code": "0105.11",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.637947811Z",
+        "hs_code_format": "010511",
+        "uraian_en": "- - Fowls of the species Gallus domesticus :"
+      },
+      "sort": [
+        "010511"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "38",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Ayam bibit",
+        "id_btbmi": 38,
+        "hs_code": "0105.11.10",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.644105119Z",
+        "hs_code_format": "01051110",
+        "uraian_en": "- - - Breeding fowls"
+      },
+      "sort": [
+        "01051110"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "39",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Lain-lain",
+        "id_btbmi": 39,
+        "hs_code": "0105.11.90",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.644124956Z",
+        "hs_code_format": "01051190",
+        "uraian_en": "- - - Other"
+      },
+      "sort": [
+        "01051190"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "40",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Kalkun :",
+        "id_btbmi": 40,
+        "hs_code": "0105.12",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.644144794Z",
+        "hs_code_format": "010512",
+        "uraian_en": "- - Turkeys :"
+      },
+      "sort": [
+        "010512"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "41",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Kalkun bibit",
+        "id_btbmi": 41,
+        "hs_code": "0105.12.10",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.644164551Z",
+        "hs_code_format": "01051210",
+        "uraian_en": "- - - Breeding turkeys"
+      },
+      "sort": [
+        "01051210"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "42",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Lain-lain",
+        "id_btbmi": 42,
+        "hs_code": "0105.12.90",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.644184759Z",
+        "hs_code_format": "01051290",
+        "uraian_en": "- - - Other"
+      },
+      "sort": [
+        "01051290"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "43",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Bebek :",
+        "id_btbmi": 43,
+        "hs_code": "0105.13",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.644204626Z",
+        "hs_code_format": "010513",
+        "uraian_en": "- - Ducks :"
+      },
+      "sort": [
+        "010513"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "44",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Bebek bibit",
+        "id_btbmi": 44,
+        "hs_code": "0105.13.10",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.644224673Z",
+        "hs_code_format": "01051310",
+        "uraian_en": "- - - Breeding ducklings"
+      },
+      "sort": [
+        "01051310"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "45",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Lain-lain",
+        "id_btbmi": 45,
+        "hs_code": "0105.13.90",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.644244461Z",
+        "hs_code_format": "01051390",
+        "uraian_en": "- - - Other"
+      },
+      "sort": [
+        "01051390"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "46",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Angsa :",
+        "id_btbmi": 46,
+        "hs_code": "0105.14",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.644264578Z",
+        "hs_code_format": "010514",
+        "uraian_en": "- - Geese :"
+      },
+      "sort": [
+        "010514"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "47",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Angsa bibit",
+        "id_btbmi": 47,
+        "hs_code": "0105.14.10",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.644284676Z",
+        "hs_code_format": "01051410",
+        "uraian_en": "- - - Breeding goslings"
+      },
+      "sort": [
+        "01051410"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "48",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Lain-lain",
+        "id_btbmi": 48,
+        "hs_code": "0105.14.90",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.644304714Z",
+        "hs_code_format": "01051490",
+        "uraian_en": "- - - Other"
+      },
+      "sort": [
+        "01051490"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "49",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Ayam guinea :",
+        "id_btbmi": 49,
+        "hs_code": "0105.15",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.644326464Z",
+        "hs_code_format": "010515",
+        "uraian_en": "- - Guinea fowls :"
+      },
+      "sort": [
+        "010515"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "50",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Ayam guinea bibit",
+        "id_btbmi": 50,
+        "hs_code": "0105.15.10",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.648641908Z",
+        "hs_code_format": "01051510",
+        "uraian_en": "- - - Breeding guinea fowls"
+      },
+      "sort": [
+        "01051510"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "51",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Lain-lain",
+        "id_btbmi": 51,
+        "hs_code": "0105.15.90",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.648673557Z",
+        "hs_code_format": "01051590",
+        "uraian_en": "- - - Other"
+      },
+      "sort": [
+        "01051590"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "52",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Lain-lain :",
+        "id_btbmi": 52,
+        "hs_code": null,
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.648704164Z",
+        "hs_code_format": "010590",
+        "uraian_en": "- Other :"
+      },
+      "sort": [
+        "010590"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "53",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Ayam dari spesies Gallus domesticus :",
+        "id_btbmi": 53,
+        "hs_code": "0105.94",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.648737237Z",
+        "hs_code_format": "010594",
+        "uraian_en": "- - Fowls of the species Gallus domesticus :"
+      },
+      "sort": [
+        "010594"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "54",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Ayam bibit, selain ayam sabung",
+        "id_btbmi": 54,
+        "hs_code": "0105.94.10",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.648768205Z",
+        "hs_code_format": "01059410",
+        "uraian_en": "- - - Breeding fowls, other than fighting cocks"
+      },
+      "sort": [
+        "01059410"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "55",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Ayam sabung :",
+        "id_btbmi": 55,
+        "hs_code": null,
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.648788783Z",
+        "hs_code_format": "01059440",
+        "uraian_en": "- - - Fighting cocks :"
+      },
+      "sort": [
+        "01059440"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "56",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - - Berat tidak lebih dari 2 kg",
+        "id_btbmi": 56,
+        "hs_code": "0105.94.41",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.648824961Z",
+        "hs_code_format": "01059441",
+        "uraian_en": "- - - - Weighing not more than 2 kg"
+      },
+      "sort": [
+        "01059441"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "57",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - - Lain-lain",
+        "id_btbmi": 57,
+        "hs_code": "0105.94.49",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.648845019Z",
+        "hs_code_format": "01059449",
+        "uraian_en": "- - - - Other"
+      },
+      "sort": [
+        "01059449"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "58",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Lain-lain :",
+        "id_btbmi": 58,
+        "hs_code": null,
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.648864445Z",
+        "hs_code_format": "01059490",
+        "uraian_en": "- - - Other :"
+      },
+      "sort": [
+        "01059490"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "59",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - - Berat tidak lebih dari 2 kg",
+        "id_btbmi": 59,
+        "hs_code": "0105.94.91",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.648904190Z",
+        "hs_code_format": "01059491",
+        "uraian_en": "- - - - Weighing not more than 2 kg"
+      },
+      "sort": [
+        "01059491"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "60",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - - Lain-lain",
+        "id_btbmi": 60,
+        "hs_code": "0105.94.99",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.648931862Z",
+        "hs_code_format": "01059499",
+        "uraian_en": "- - - - Other"
+      },
+      "sort": [
+        "01059499"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "61",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Lain-lain :",
+        "id_btbmi": 61,
+        "hs_code": "0105.99",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.648952120Z",
+        "hs_code_format": "010599",
+        "uraian_en": "- - Other :"
+      },
+      "sort": [
+        "010599"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "62",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Bebek bibit",
+        "id_btbmi": 62,
+        "hs_code": "0105.99.10",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.648971997Z",
+        "hs_code_format": "01059910",
+        "uraian_en": "- - - Breeding ducks"
+      },
+      "sort": [
+        "01059910"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "63",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Bebek lainnya",
+        "id_btbmi": 63,
+        "hs_code": "0105.99.20",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.648991724Z",
+        "hs_code_format": "01059920",
+        "uraian_en": "- - - Other ducks"
+      },
+      "sort": [
+        "01059920"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "64",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Angsa, kalkun dan ayam guinea, bibit",
+        "id_btbmi": 64,
+        "hs_code": "0105.99.30",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.649031208Z",
+        "hs_code_format": "01059930",
+        "uraian_en": "- - - Breeding geese, turkeys and guinea fowls"
+      },
+      "sort": [
+        "01059930"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "65",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Angsa, kalkun dan ayam guinea lainnya",
+        "id_btbmi": 65,
+        "hs_code": "0105.99.40",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.649051185Z",
+        "hs_code_format": "01059940",
+        "uraian_en": "- - - Other geese, turkeys and guinea fowls"
+      },
+      "sort": [
+        "01059940"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "66",
+      "_score": null,
+      "_source": {
+        "uraian_id": "Binatang hidup lainnya.",
+        "id_btbmi": 66,
+        "hs_code": "01.06",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:04.442029605Z",
+        "hs_code_format": "0106",
+        "uraian_en": "Other live animals."
+      },
+      "sort": [
+        "0106"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "67",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Binatang menyusui :",
+        "id_btbmi": 67,
+        "hs_code": null,
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.649070672Z",
+        "hs_code_format": "010610",
+        "uraian_en": "- Mammals :"
+      },
+      "sort": [
+        "010610"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "68",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Primata",
+        "id_btbmi": 68,
+        "hs_code": "0106.11.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.649144160Z",
+        "hs_code_format": "01061100",
+        "uraian_en": "- - Primates"
+      },
+      "sort": [
+        "01061100"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "69",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Paus, lumba-lumba dan porpoise (binatang menyusui dari ordo Cetacea); manate dan dugong (binatang menyusui dari ordo Sirenia); anjing laut, singa laut dan beruang laut (mamalia dari sub ordo Pinnipedia) :",
+        "id_btbmi": 69,
+        "hs_code": "0106.12",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.649405570Z",
+        "hs_code_format": "010612",
+        "uraian_en": "- - Whales, dolphins and porpoises (mammals of the order Cetacea); manatees and dugongs (mammals of the order Sirenia); seals, sea lions and walruses (mammals of the suborder Pinnipedia) :"
+      },
+      "sort": [
+        "010612"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "70",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Paus, lumba-lumba dan porpoise (binatang menyusui dari ordo Cetacea); manate dan dugong (binatang menyusui dari ordo Sirenia)",
+        "id_btbmi": 70,
+        "hs_code": "0106.12.10",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.649426499Z",
+        "hs_code_format": "01061210",
+        "uraian_en": "- - - Whales, dolphins and porpoises (mammals of the order Cetacea); manatees and dugongs (mammals of the order Sirenia)"
+      },
+      "sort": [
+        "01061210"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "71",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Anjing laut, singa laut dan beruang laut (mamalia dari sub ordo Pinnipedia)",
+        "id_btbmi": 71,
+        "hs_code": "0106.12.20",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.649647854Z",
+        "hs_code_format": "01061220",
+        "uraian_en": "- - - Seals, sea lions and walruses (mammals of the suborder Pinnipedia)"
+      },
+      "sort": [
+        "01061220"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "72",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Unta dan camelid lainnya (Camelidae)",
+        "id_btbmi": 72,
+        "hs_code": "0106.13.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.649749866Z",
+        "hs_code_format": "01061300",
+        "uraian_en": "- - Camels and other camelids (Camelidae)"
+      },
+      "sort": [
+        "01061300"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "73",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Kelinci dan hare",
+        "id_btbmi": 73,
+        "hs_code": "0106.14.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.649769633Z",
+        "hs_code_format": "01061400",
+        "uraian_en": "- - Rabbits and hares"
+      },
+      "sort": [
+        "01061400"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "74",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Lain-lain",
+        "id_btbmi": 74,
+        "hs_code": "0106.19.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.649789219Z",
+        "hs_code_format": "01061900",
+        "uraian_en": "- - Other"
+      },
+      "sort": [
+        "01061900"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "75",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Binatang melata (termasuk ular dan penyu)",
+        "id_btbmi": 75,
+        "hs_code": "0106.20.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.649960801Z",
+        "hs_code_format": "01062000",
+        "uraian_en": "- Reptiles (including snakes and turtles)"
+      },
+      "sort": [
+        "01062000"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "76",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Burung :",
+        "id_btbmi": 76,
+        "hs_code": null,
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.649980087Z",
+        "hs_code_format": "010630",
+        "uraian_en": "- Birds :"
+      },
+      "sort": [
+        "010630"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "77",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Burung pemangsa",
+        "id_btbmi": 77,
+        "hs_code": "0106.31.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.641943886Z",
+        "hs_code_format": "01063100",
+        "uraian_en": "- - Birds of prey"
+      },
+      "sort": [
+        "01063100"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "78",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Psittaciformes (termasuk burung Beo, Parkit, Macaw dan Kakatua)",
+        "id_btbmi": 78,
+        "hs_code": "0106.32.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.641964635Z",
+        "hs_code_format": "01063200",
+        "uraian_en": "- - Psittaciformes (including parrots, parakeets, macaws and cockatoos)"
+      },
+      "sort": [
+        "01063200"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "79",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Burung unta; emu (Dromaius novaehollandiae)",
+        "id_btbmi": 79,
+        "hs_code": "0106.33.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.641984612Z",
+        "hs_code_format": "01063300",
+        "uraian_en": "- - Ostriches; emus (Dromaius novaehollandiae)"
+      },
+      "sort": [
+        "01063300"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "80",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Lain-lain",
+        "id_btbmi": 80,
+        "hs_code": "0106.39.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.642004199Z",
+        "hs_code_format": "01063900",
+        "uraian_en": "- - Other"
+      },
+      "sort": [
+        "01063900"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "81",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Serangga :",
+        "id_btbmi": 81,
+        "hs_code": null,
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.642023425Z",
+        "hs_code_format": "010640",
+        "uraian_en": "- Insects :"
+      },
+      "sort": [
+        "010640"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "82",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Lebah",
+        "id_btbmi": 82,
+        "hs_code": "0106.41.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.642043052Z",
+        "hs_code_format": "01064100",
+        "uraian_en": "- - Bees"
+      },
+      "sort": [
+        "01064100"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "83",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Lain-lain",
+        "id_btbmi": 83,
+        "hs_code": "0106.49.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.642062508Z",
+        "hs_code_format": "01064900",
+        "uraian_en": "- - Other"
+      },
+      "sort": [
+        "01064900"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "84",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Lain-lain",
+        "id_btbmi": 84,
+        "hs_code": "0106.90.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.640849764Z",
+        "hs_code_format": "01069000",
+        "uraian_en": "- Other"
+      },
+      "sort": [
+        "01069000"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "85",
+      "_score": null,
+      "_source": {
+        "uraian_id": "Daging binatang jenis lembu, segar atau dingin.",
+        "id_btbmi": 85,
+        "hs_code": "02.01",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:04.442051816Z",
+        "hs_code_format": "0201",
+        "uraian_en": "Meat of bovine animals, fresh or chilled."
+      },
+      "sort": [
+        "0201"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "86",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Karkas dan setengah karkas",
+        "id_btbmi": 86,
+        "hs_code": "0201.10.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.640869781Z",
+        "hs_code_format": "02011000",
+        "uraian_en": "- Carcasses and half-carcasses"
+      },
+      "sort": [
+        "02011000"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "87",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Potongan daging lainnya, bertulang",
+        "id_btbmi": 87,
+        "hs_code": "0201.20.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.649999865Z",
+        "hs_code_format": "02012000",
+        "uraian_en": "- Other cuts with bone in"
+      },
+      "sort": [
+        "02012000"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "88",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Daging tanpa tulang",
+        "id_btbmi": 88,
+        "hs_code": "0201.30.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.650019862Z",
+        "hs_code_format": "02013000",
+        "uraian_en": "- Boneless"
+      },
+      "sort": [
+        "02013000"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "89",
+      "_score": null,
+      "_source": {
+        "uraian_id": "Daging binatang jenis lembu, beku.",
+        "id_btbmi": 89,
+        "hs_code": "02.02",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:04.442073217Z",
+        "hs_code_format": "0202",
+        "uraian_en": "Meat of bovine animals, frozen."
+      },
+      "sort": [
+        "0202"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "90",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Karkas dan setengah karkas",
+        "id_btbmi": 90,
+        "hs_code": "0202.10.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.650086287Z",
+        "hs_code_format": "02021000",
+        "uraian_en": "- Carcasses and half-carcasses"
+      },
+      "sort": [
+        "02021000"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "91",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Potongan daging lainnya, bertulang",
+        "id_btbmi": 91,
+        "hs_code": "0202.20.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.650146289Z",
+        "hs_code_format": "02022000",
+        "uraian_en": "- Other cuts with bone in"
+      },
+      "sort": [
+        "02022000"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "92",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Daging tanpa tulang",
+        "id_btbmi": 92,
+        "hs_code": "0202.30.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.650165966Z",
+        "hs_code_format": "02023000",
+        "uraian_en": "- Boneless"
+      },
+      "sort": [
+        "02023000"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "93",
+      "_score": null,
+      "_source": {
+        "uraian_id": "Daging babi, segar, dingin atau beku.",
+        "id_btbmi": 93,
+        "hs_code": "02.03",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:04.442094647Z",
+        "hs_code_format": "0203",
+        "uraian_en": "Meat of swine, fresh, chilled or frozen."
+      },
+      "sort": [
+        "0203"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "94",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Segar atau dingin :",
+        "id_btbmi": 94,
+        "hs_code": null,
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.650185593Z",
+        "hs_code_format": "020310",
+        "uraian_en": "- Fresh or chilled :"
+      },
+      "sort": [
+        "020310"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "95",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Karkas dan setengah karkas",
+        "id_btbmi": 95,
+        "hs_code": "0203.11.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.650225377Z",
+        "hs_code_format": "02031100",
+        "uraian_en": "- - Carcasses and half-carcasses"
+      },
+      "sort": [
+        "02031100"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "96",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Paha, bahu dan potongannya, bertulang",
+        "id_btbmi": 96,
+        "hs_code": "0203.12.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.650245505Z",
+        "hs_code_format": "02031200",
+        "uraian_en": "- - Hams, shoulders and cuts thereof, with bone in"
+      },
+      "sort": [
+        "02031200"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "97",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Lain-lain",
+        "id_btbmi": 97,
+        "hs_code": "0203.19.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.650265042Z",
+        "hs_code_format": "02031900",
+        "uraian_en": "- - Other"
+      },
+      "sort": [
+        "02031900"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "98",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Beku :",
+        "id_btbmi": 98,
+        "hs_code": null,
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.650284298Z",
+        "hs_code_format": "020320",
+        "uraian_en": "- Frozen :"
+      },
+      "sort": [
+        "020320"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "99",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Karkas dan setengah karkas",
+        "id_btbmi": 99,
+        "hs_code": "0203.21.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.650323862Z",
+        "hs_code_format": "02032100",
+        "uraian_en": "- - Carcasses and half-carcasses"
+      },
+      "sort": [
+        "02032100"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "100",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Paha, bahu dan potongannya, bertulang",
+        "id_btbmi": 100,
+        "hs_code": "0203.22.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.650364048Z",
+        "hs_code_format": "02032200",
+        "uraian_en": "- - Hams, shoulders and cuts thereof, with bone in"
+      },
+      "sort": [
+        "02032200"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "101",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Lain-lain",
+        "id_btbmi": 101,
+        "hs_code": "0203.29.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.650383805Z",
+        "hs_code_format": "02032900",
+        "uraian_en": "- - Other"
+      },
+      "sort": [
+        "02032900"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "102",
+      "_score": null,
+      "_source": {
+        "uraian_id": "Daging biri-biri atau kambing, segar, dingin atau beku.",
+        "id_btbmi": 102,
+        "hs_code": "02.04",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:04.442117149Z",
+        "hs_code_format": "0204",
+        "uraian_en": "Meat of sheep or goats, fresh, chilled or frozen."
+      },
+      "sort": [
+        "0204"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "103",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Karkas dan setengah karkas dari biri-biri muda, segar atau dingin",
+        "id_btbmi": 103,
+        "hs_code": "0204.10.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.650423850Z",
+        "hs_code_format": "02041000",
+        "uraian_en": "- Carcasses and half-carcasses of lamb, fresh or chilled"
+      },
+      "sort": [
+        "02041000"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "104",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Daging lainnya dari biri-biri, segar atau dingin :",
+        "id_btbmi": 104,
+        "hs_code": null,
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.650443537Z",
+        "hs_code_format": "020420",
+        "uraian_en": "- Other meat of sheep, fresh or chilled :"
+      },
+      "sort": [
+        "020420"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "105",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Karkas dan setengah karkas",
+        "id_btbmi": 105,
+        "hs_code": "0204.21.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.650463795Z",
+        "hs_code_format": "02042100",
+        "uraian_en": "- - Carcasses and half-carcasses"
+      },
+      "sort": [
+        "02042100"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "106",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Potongan daging lainnya, bertulang",
+        "id_btbmi": 106,
+        "hs_code": "0204.22.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.650602976Z",
+        "hs_code_format": "02042200",
+        "uraian_en": "- - Other cuts with bone in"
+      },
+      "sort": [
+        "02042200"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "107",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Daging tanpa tulang",
+        "id_btbmi": 107,
+        "hs_code": "0204.23.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.650642289Z",
+        "hs_code_format": "02042300",
+        "uraian_en": "- - Boneless"
+      },
+      "sort": [
+        "02042300"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "108",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Karkas dan setengah karkas dari biri-biri muda, beku",
+        "id_btbmi": 108,
+        "hs_code": "0204.30.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.650662427Z",
+        "hs_code_format": "02043000",
+        "uraian_en": "- Carcasses and half-carcasses of lamb, frozen"
+      },
+      "sort": [
+        "02043000"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "109",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Daging lainnya dari biri-biri, beku :",
+        "id_btbmi": 109,
+        "hs_code": null,
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.650682004Z",
+        "hs_code_format": "020440",
+        "uraian_en": "- Other meat of sheep, frozen :"
+      },
+      "sort": [
+        "020440"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "110",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Karkas dan setengah karkas",
+        "id_btbmi": 110,
+        "hs_code": "0204.41.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.650701571Z",
+        "hs_code_format": "02044100",
+        "uraian_en": "- - Carcasses and half-carcasses"
+      },
+      "sort": [
+        "02044100"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "111",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Potongan daging lainnya, bertulang",
+        "id_btbmi": 111,
+        "hs_code": "0204.42.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.650780308Z",
+        "hs_code_format": "02044200",
+        "uraian_en": "- - Other cuts with bone in"
+      },
+      "sort": [
+        "02044200"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "112",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Daging tanpa tulang",
+        "id_btbmi": 112,
+        "hs_code": "0204.43.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.650811998Z",
+        "hs_code_format": "02044300",
+        "uraian_en": "- - Boneless"
+      },
+      "sort": [
+        "02044300"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "113",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Daging kambing",
+        "id_btbmi": 113,
+        "hs_code": "0204.50.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.650832546Z",
+        "hs_code_format": "02045000",
+        "uraian_en": "- Meat of goats"
+      },
+      "sort": [
+        "02045000"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "114",
+      "_score": null,
+      "_source": {
+        "uraian_id": "Daging kuda, keledai, bagal atau hinnie, segar, dingin atau beku.",
+        "id_btbmi": 114,
+        "hs_code": "0205.00.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:04.442139090Z",
+        "hs_code_format": "02050000",
+        "uraian_en": "Meat of horses, asses, mules or hinnies, fresh, chilled or frozen."
+      },
+      "sort": [
+        "02050000"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "115",
+      "_score": null,
+      "_source": {
+        "uraian_id": "Sisa yang dapat dimakan dari binatang jenis lembu, babi, biri-biri, kambing, kuda, keledai, bagal atau hinnie, segar, dingin atau beku.",
+        "id_btbmi": 115,
+        "hs_code": "02.06",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:04.442161342Z",
+        "hs_code_format": "0206",
+        "uraian_en": "Edible offal of bovine animals, swine, sheep, goats, horses, asses, mules or hinnies, fresh, chilled or frozen."
+      },
+      "sort": [
+        "0206"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "116",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Dari binatang jenis lembu, segar atau dingin",
+        "id_btbmi": 116,
+        "hs_code": "0206.10.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.650892008Z",
+        "hs_code_format": "02061000",
+        "uraian_en": "- Of bovine animals, fresh or chilled"
+      },
+      "sort": [
+        "02061000"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "117",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Dari binatang jenis lembu, beku :",
+        "id_btbmi": 117,
+        "hs_code": null,
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.650911875Z",
+        "hs_code_format": "020620",
+        "uraian_en": "- Of bovine animals, frozen :"
+      },
+      "sort": [
+        "020620"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "118",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Lidah",
+        "id_btbmi": 118,
+        "hs_code": "0206.21.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.650932213Z",
+        "hs_code_format": "02062100",
+        "uraian_en": "- - Tongues"
+      },
+      "sort": [
+        "02062100"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "119",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Hati",
+        "id_btbmi": 119,
+        "hs_code": "0206.22.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.650951870Z",
+        "hs_code_format": "02062200",
+        "uraian_en": "- - Livers"
+      },
+      "sort": [
+        "02062200"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "120",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Lain-lain",
+        "id_btbmi": 120,
+        "hs_code": "0206.29.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.650971617Z",
+        "hs_code_format": "02062900",
+        "uraian_en": "- - Other"
+      },
+      "sort": [
+        "02062900"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "121",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Dari babi, segar atau dingin",
+        "id_btbmi": 121,
+        "hs_code": "0206.30.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.650991384Z",
+        "hs_code_format": "02063000",
+        "uraian_en": "- Of swine, fresh or chilled"
+      },
+      "sort": [
+        "02063000"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "122",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Dari babi, beku :",
+        "id_btbmi": 122,
+        "hs_code": null,
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651011061Z",
+        "hs_code_format": "020640",
+        "uraian_en": "- Of swine, frozen :"
+      },
+      "sort": [
+        "020640"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "123",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Hati",
+        "id_btbmi": 123,
+        "hs_code": "0206.41.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651030678Z",
+        "hs_code_format": "02064100",
+        "uraian_en": "- - Livers"
+      },
+      "sort": [
+        "02064100"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "124",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Lain-lain",
+        "id_btbmi": 124,
+        "hs_code": "0206.49.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651050415Z",
+        "hs_code_format": "02064900",
+        "uraian_en": "- - Other"
+      },
+      "sort": [
+        "02064900"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "125",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Lain-lain, segar atau dingin",
+        "id_btbmi": 125,
+        "hs_code": "0206.80.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651070342Z",
+        "hs_code_format": "02068000",
+        "uraian_en": "- Other, fresh or chilled"
+      },
+      "sort": [
+        "02068000"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "126",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Lain-lain, beku",
+        "id_btbmi": 126,
+        "hs_code": "0206.90.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651090149Z",
+        "hs_code_format": "02069000",
+        "uraian_en": "- Other, frozen"
+      },
+      "sort": [
+        "02069000"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "127",
+      "_score": null,
+      "_source": {
+        "uraian_id": "Daging dan sisanya yang dapat dimakan, dari unggas dari pos 01.05, segar, dingin atau beku.",
+        "id_btbmi": 127,
+        "hs_code": "02.07",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:04.442183323Z",
+        "hs_code_format": "0207",
+        "uraian_en": "Meat and edible offal, of the poultry of heading 01.05, fresh, chilled or frozen."
+      },
+      "sort": [
+        "0207"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "128",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Dari ayam spesies Gallus domesticus :",
+        "id_btbmi": 128,
+        "hs_code": null,
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651109756Z",
+        "hs_code_format": "020710",
+        "uraian_en": "- Of fowls of the species Gallus domesticus :"
+      },
+      "sort": [
+        "020710"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "129",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Tidak dipotong menjadi bagian-bagian, segar atau dingin",
+        "id_btbmi": 129,
+        "hs_code": "0207.11.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651129764Z",
+        "hs_code_format": "02071100",
+        "uraian_en": "- - Not cut in pieces, fresh or chilled"
+      },
+      "sort": [
+        "02071100"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "130",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Tidak dipotong menjadi bagian-bagian, beku",
+        "id_btbmi": 130,
+        "hs_code": "0207.12.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651149901Z",
+        "hs_code_format": "02071200",
+        "uraian_en": "- - Not cut in pieces, frozen"
+      },
+      "sort": [
+        "02071200"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "131",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Potongan dan sisanya, segar atau dingin",
+        "id_btbmi": 131,
+        "hs_code": "0207.13.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651170390Z",
+        "hs_code_format": "02071300",
+        "uraian_en": "- - Cuts and offal, fresh or chilled"
+      },
+      "sort": [
+        "02071300"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "132",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Potongan dan sisanya, beku :",
+        "id_btbmi": 132,
+        "hs_code": "0207.14",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651190357Z",
+        "hs_code_format": "020714",
+        "uraian_en": "- - Cuts and offal, frozen :"
+      },
+      "sort": [
+        "020714"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "133",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Sayap",
+        "id_btbmi": 133,
+        "hs_code": "0207.14.10",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651257754Z",
+        "hs_code_format": "02071410",
+        "uraian_en": "- - - Wings"
+      },
+      "sort": [
+        "02071410"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "134",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Paha",
+        "id_btbmi": 134,
+        "hs_code": "0207.14.20",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651278222Z",
+        "hs_code_format": "02071420",
+        "uraian_en": "- - - Thighs"
+      },
+      "sort": [
+        "02071420"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "135",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Hati",
+        "id_btbmi": 135,
+        "hs_code": "0207.14.30",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651298320Z",
+        "hs_code_format": "02071430",
+        "uraian_en": "- - - Livers"
+      },
+      "sort": [
+        "02071430"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "136",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Lain-lain :",
+        "id_btbmi": 136,
+        "hs_code": null,
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651317716Z",
+        "hs_code_format": "02071490",
+        "uraian_en": "- - - Other :"
+      },
+      "sort": [
+        "02071490"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "137",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - - Daging yang dihilangkan tulangnya atau dipisahkan dengan mesin",
+        "id_btbmi": 137,
+        "hs_code": "0207.14.91",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651337533Z",
+        "hs_code_format": "02071491",
+        "uraian_en": "- - - - Mechanically deboned or separated meat"
+      },
+      "sort": [
+        "02071491"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "138",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - - Lain-lain",
+        "id_btbmi": 138,
+        "hs_code": "0207.14.99",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651357431Z",
+        "hs_code_format": "02071499",
+        "uraian_en": "- - - - Other"
+      },
+      "sort": [
+        "02071499"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "139",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Dari kalkun :",
+        "id_btbmi": 139,
+        "hs_code": null,
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651384702Z",
+        "hs_code_format": "020720",
+        "uraian_en": "- Of turkeys :"
+      },
+      "sort": [
+        "020720"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "140",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Tidak dipotong menjadi bagian-bagian, segar atau dingin",
+        "id_btbmi": 140,
+        "hs_code": "0207.24.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651405711Z",
+        "hs_code_format": "02072400",
+        "uraian_en": "- - Not cut in pieces, fresh or chilled"
+      },
+      "sort": [
+        "02072400"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "141",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Tidak dipotong menjadi bagian-bagian, beku",
+        "id_btbmi": 141,
+        "hs_code": "0207.25.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651425779Z",
+        "hs_code_format": "02072500",
+        "uraian_en": "- - Not cut in pieces, frozen"
+      },
+      "sort": [
+        "02072500"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "142",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Potongan dan sisanya, segar atau dingin",
+        "id_btbmi": 142,
+        "hs_code": "0207.26.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651484890Z",
+        "hs_code_format": "02072600",
+        "uraian_en": "- - Cuts and offal, fresh or chilled"
+      },
+      "sort": [
+        "02072600"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "143",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Potongan dan sisanya, beku :",
+        "id_btbmi": 143,
+        "hs_code": "0207.27",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651524223Z",
+        "hs_code_format": "020727",
+        "uraian_en": "- - Cuts and offal, frozen :"
+      },
+      "sort": [
+        "020727"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "144",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Hati",
+        "id_btbmi": 144,
+        "hs_code": "0207.27.10",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651543770Z",
+        "hs_code_format": "02072710",
+        "uraian_en": "- - - Livers"
+      },
+      "sort": [
+        "02072710"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "145",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Lain-lain :",
+        "id_btbmi": 145,
+        "hs_code": null,
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.640908183Z",
+        "hs_code_format": "02072790",
+        "uraian_en": "- - - Other :"
+      },
+      "sort": [
+        "02072790"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "146",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - - Daging yang dihilangkan tulangnya atau dipisahkan dengan mesin",
+        "id_btbmi": 146,
+        "hs_code": "0207.27.91",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.640936897Z",
+        "hs_code_format": "02072791",
+        "uraian_en": "- - - - Mechanically deboned or separated meat"
+      },
+      "sort": [
+        "02072791"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "147",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - - Lain-lain",
+        "id_btbmi": 147,
+        "hs_code": "0207.27.99",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.640960482Z",
+        "hs_code_format": "02072799",
+        "uraian_en": "- - - - Other"
+      },
+      "sort": [
+        "02072799"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "148",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Dari bebek :",
+        "id_btbmi": 148,
+        "hs_code": null,
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.640980158Z",
+        "hs_code_format": "020740",
+        "uraian_en": "- Of ducks :"
+      },
+      "sort": [
+        "020740"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "149",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Tidak dipotong menjadi bagian-bagian, segar atau dingin",
+        "id_btbmi": 149,
+        "hs_code": "0207.41.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.641000406Z",
+        "hs_code_format": "02074100",
+        "uraian_en": "- - Not cut in pieces, fresh or chilled"
+      },
+      "sort": [
+        "02074100"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "150",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Tidak dipotong menjadi bagian-bagian, beku",
+        "id_btbmi": 150,
+        "hs_code": "0207.42.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.641020504Z",
+        "hs_code_format": "02074200",
+        "uraian_en": "- - Not cut in pieces, frozen"
+      },
+      "sort": [
+        "02074200"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "151",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Hati berlemak, segar atau dingin",
+        "id_btbmi": 151,
+        "hs_code": "0207.43.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651563497Z",
+        "hs_code_format": "02074300",
+        "uraian_en": "- - Fatty livers, fresh or chilled"
+      },
+      "sort": [
+        "02074300"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "152",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Lain-lain, segar atau dingin",
+        "id_btbmi": 152,
+        "hs_code": "0207.44.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651583464Z",
+        "hs_code_format": "02074400",
+        "uraian_en": "- - Other, fresh or chilled"
+      },
+      "sort": [
+        "02074400"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "153",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Lain-lain, beku :",
+        "id_btbmi": 153,
+        "hs_code": "0207.45",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651622718Z",
+        "hs_code_format": "020745",
+        "uraian_en": "- - Other, frozen :"
+      },
+      "sort": [
+        "020745"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "154",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Hati berlemak",
+        "id_btbmi": 154,
+        "hs_code": "0207.45.10",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651651382Z",
+        "hs_code_format": "02074510",
+        "uraian_en": "- - - Fatty livers"
+      },
+      "sort": [
+        "02074510"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "155",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Lain-lain",
+        "id_btbmi": 155,
+        "hs_code": "0207.45.90",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.641040371Z",
+        "hs_code_format": "02074590",
+        "uraian_en": "- - - Other"
+      },
+      "sort": [
+        "02074590"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "156",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Dari angsa :",
+        "id_btbmi": 156,
+        "hs_code": null,
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651671540Z",
+        "hs_code_format": "020750",
+        "uraian_en": "- Of geese :"
+      },
+      "sort": [
+        "020750"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "157",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Tidak dipotong menjadi bagian-bagian, segar atau dingin",
+        "id_btbmi": 157,
+        "hs_code": "0207.51.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651691718Z",
+        "hs_code_format": "02075100",
+        "uraian_en": "- - Not cut in pieces, fresh or chilled"
+      },
+      "sort": [
+        "02075100"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "158",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Tidak dipotong menjadi bagian-bagian, beku",
+        "id_btbmi": 158,
+        "hs_code": "0207.52.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651732464Z",
+        "hs_code_format": "02075200",
+        "uraian_en": "- - Not cut in pieces, frozen"
+      },
+      "sort": [
+        "02075200"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "159",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Hati berlemak, segar atau dingin",
+        "id_btbmi": 159,
+        "hs_code": "0207.53.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651752752Z",
+        "hs_code_format": "02075300",
+        "uraian_en": "- - Fatty livers, fresh or chilled"
+      },
+      "sort": [
+        "02075300"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "160",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Lain-lain, segar atau dingin",
+        "id_btbmi": 160,
+        "hs_code": "0207.54.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651772699Z",
+        "hs_code_format": "02075400",
+        "uraian_en": "- - Other, fresh or chilled"
+      },
+      "sort": [
+        "02075400"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "161",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Lain-lain, beku :",
+        "id_btbmi": 161,
+        "hs_code": "0207.55",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651803938Z",
+        "hs_code_format": "020755",
+        "uraian_en": "- - Other, frozen :"
+      },
+      "sort": [
+        "020755"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "162",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Hati berlemak",
+        "id_btbmi": 162,
+        "hs_code": "0207.55.10",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651832011Z",
+        "hs_code_format": "02075510",
+        "uraian_en": "- - - Fatty livers"
+      },
+      "sort": [
+        "02075510"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "163",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Lain-lain",
+        "id_btbmi": 163,
+        "hs_code": "0207.55.90",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651851898Z",
+        "hs_code_format": "02075590",
+        "uraian_en": "- - - Other"
+      },
+      "sort": [
+        "02075590"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "164",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Dari ayam guinea :",
+        "id_btbmi": 164,
+        "hs_code": "0207.60",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651891532Z",
+        "hs_code_format": "020760",
+        "uraian_en": "- Of guinea fowls :"
+      },
+      "sort": [
+        "020760"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "165",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Tidak dipotong menjadi bagian-bagian, segar atau dingin",
+        "id_btbmi": 165,
+        "hs_code": "0207.60.10",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.651991019Z",
+        "hs_code_format": "02076010",
+        "uraian_en": "- - Not cut in pieces, fresh or chilled"
+      },
+      "sort": [
+        "02076010"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "166",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Tidak dipotong menjadi bagian-bagian, beku",
+        "id_btbmi": 166,
+        "hs_code": "0207.60.20",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.652010996Z",
+        "hs_code_format": "02076020",
+        "uraian_en": "- - Not cut in pieces, frozen"
+      },
+      "sort": [
+        "02076020"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "167",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Potongan dan sisanya, segar atau dingin",
+        "id_btbmi": 167,
+        "hs_code": "0207.60.30",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.652031024Z",
+        "hs_code_format": "02076030",
+        "uraian_en": "- - Cuts and offal, fresh or chilled"
+      },
+      "sort": [
+        "02076030"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "168",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Potongan dan sisanya, beku",
+        "id_btbmi": 168,
+        "hs_code": "0207.60.40",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.652070308Z",
+        "hs_code_format": "02076040",
+        "uraian_en": "- - Cuts and offal, frozen"
+      },
+      "sort": [
+        "02076040"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "169",
+      "_score": null,
+      "_source": {
+        "uraian_id": "Daging dan sisanya yang dapat dimakan dari binatang lainnya, segar, dingin atau beku.",
+        "id_btbmi": 169,
+        "hs_code": "02.08",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:04.442205014Z",
+        "hs_code_format": "0208",
+        "uraian_en": "Other meat and edible meat offal, fresh, chilled or frozen."
+      },
+      "sort": [
+        "0208"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "170",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Dari kelinci atau hare",
+        "id_btbmi": 170,
+        "hs_code": "0208.10.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.652090305Z",
+        "hs_code_format": "02081000",
+        "uraian_en": "- Of rabbits or hares"
+      },
+      "sort": [
+        "02081000"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "171",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Dari primata",
+        "id_btbmi": 171,
+        "hs_code": "0208.30.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.652109862Z",
+        "hs_code_format": "02083000",
+        "uraian_en": "- Of primates"
+      },
+      "sort": [
+        "02083000"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "172",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Dari paus, lumba-lumba dan porpoise (binatang menyusui dari ordo Cetacea); manate dan dugong (binatang menyusui dari ordo Sirenia); anjing laut, singa laut dan beruang laut (mamalia dari sub ordo Pinnipedia) :",
+        "id_btbmi": 172,
+        "hs_code": "0208.40",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.652170325Z",
+        "hs_code_format": "020840",
+        "uraian_en": "- Of whales, dolphins and porpoises (mammals of the order Cetacea); of manatees and dugongs (mammals of the order Sirenia); of seals, sea lions and walruses (mammals of the suborder Pinnipedia) :"
+      },
+      "sort": [
+        "020840"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "173",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Dari paus, lumba-lumba dan porpoise (binatang menyusui dari ordo Cetacea); dari manate dan dugong (binatang menyusui dari ordo Sirenia)",
+        "id_btbmi": 173,
+        "hs_code": "0208.40.10",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.652271144Z",
+        "hs_code_format": "02084010",
+        "uraian_en": "- - Of whales, dolphins and porpoises (mammals of the order Cetacea); of manatees and dugongs (mammals of the order Sirenia)"
+      },
+      "sort": [
+        "02084010"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "174",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Lain-lain",
+        "id_btbmi": 174,
+        "hs_code": "0208.40.90",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.652306931Z",
+        "hs_code_format": "02084090",
+        "uraian_en": "- - Other"
+      },
+      "sort": [
+        "02084090"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "175",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Dari binatang melata (termasuk ular dan penyu)",
+        "id_btbmi": 175,
+        "hs_code": "0208.50.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.652396469Z",
+        "hs_code_format": "02085000",
+        "uraian_en": "- Of reptiles (including snakes and turtles)"
+      },
+      "sort": [
+        "02085000"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "176",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Dari Unta dan camelid lainnya (Camelidae)",
+        "id_btbmi": 176,
+        "hs_code": "0208.60.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.652416888Z",
+        "hs_code_format": "02086000",
+        "uraian_en": "- Of camels and other camelids (Camelidae)"
+      },
+      "sort": [
+        "02086000"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "177",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Lain-lain :",
+        "id_btbmi": 177,
+        "hs_code": "0208.90",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.652437095Z",
+        "hs_code_format": "020890",
+        "uraian_en": "- Other :"
+      },
+      "sort": [
+        "020890"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "178",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Kaki kodok",
+        "id_btbmi": 178,
+        "hs_code": "0208.90.10",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.652457053Z",
+        "hs_code_format": "02089010",
+        "uraian_en": "- - Frogs' legs"
+      },
+      "sort": [
+        "02089010"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "179",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Lain-lain",
+        "id_btbmi": 179,
+        "hs_code": "0208.90.90",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.652479144Z",
+        "hs_code_format": "02089090",
+        "uraian_en": "- - Other"
+      },
+      "sort": [
+        "02089090"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "180",
+      "_score": null,
+      "_source": {
+        "uraian_id": "Lemak babi tanpa daging dan lemak unggas, tidak dicairkan atau diekstraksi dengan cara lain, segar, dingin, beku, diasinkan, dalam air garam, dikeringkan atau diasapi.",
+        "id_btbmi": 180,
+        "hs_code": "02.09",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:04.442263393Z",
+        "hs_code_format": "0209",
+        "uraian_en": "Pig fat, free of lean meat, and poultry fat, not rendered or otherwise extracted, fresh, chilled, frozen, salted, in brine, dried or smoked."
+      },
+      "sort": [
+        "0209"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "181",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Dari babi",
+        "id_btbmi": 181,
+        "hs_code": "0209.10.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.652507848Z",
+        "hs_code_format": "02091000",
+        "uraian_en": "- Of pigs"
+      },
+      "sort": [
+        "02091000"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "182",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Lain-lain",
+        "id_btbmi": 182,
+        "hs_code": "0209.90.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.652528036Z",
+        "hs_code_format": "02099000",
+        "uraian_en": "- Other"
+      },
+      "sort": [
+        "02099000"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "183",
+      "_score": null,
+      "_source": {
+        "uraian_id": "Daging dan sisanya yang dapat dimakan, diasinkan, dalam air garam, dikeringkan atau diasapi; tepung dan tepung kasar dari daging dan sisanya yang dapat dimakan.",
+        "id_btbmi": 183,
+        "hs_code": "02.10",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:04.442286507Z",
+        "hs_code_format": "0210",
+        "uraian_en": "Meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal."
+      },
+      "sort": [
+        "0210"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "184",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Daging babi :",
+        "id_btbmi": 184,
+        "hs_code": null,
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.652560236Z",
+        "hs_code_format": "021010",
+        "uraian_en": "- Meat of swine :"
+      },
+      "sort": [
+        "021010"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "185",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Paha, bahu dan potongannya, bertulang",
+        "id_btbmi": 185,
+        "hs_code": "0210.11.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.652622102Z",
+        "hs_code_format": "02101100",
+        "uraian_en": "- - Hams, shoulders and cuts thereof, with bone in"
+      },
+      "sort": [
+        "02101100"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "186",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Perut (streaky) dan potongannya",
+        "id_btbmi": 186,
+        "hs_code": "0210.12.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.652655685Z",
+        "hs_code_format": "02101200",
+        "uraian_en": "- - Bellies (streaky) and cuts thereof"
+      },
+      "sort": [
+        "02101200"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "187",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Lain-lain :",
+        "id_btbmi": 187,
+        "hs_code": "0210.19",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.652685722Z",
+        "hs_code_format": "021019",
+        "uraian_en": "- - Other :"
+      },
+      "sort": [
+        "021019"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "188",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Bacon; paha tanpa tulang",
+        "id_btbmi": 188,
+        "hs_code": "0210.19.30",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.652721719Z",
+        "hs_code_format": "02101930",
+        "uraian_en": "- - - Bacon; boneless hams"
+      },
+      "sort": [
+        "02101930"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "189",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Lain-lain",
+        "id_btbmi": 189,
+        "hs_code": "0210.19.90",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.652751215Z",
+        "hs_code_format": "02101990",
+        "uraian_en": "- - - Other"
+      },
+      "sort": [
+        "02101990"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "190",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Daging binatang jenis lembu",
+        "id_btbmi": 190,
+        "hs_code": "0210.20.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.652780730Z",
+        "hs_code_format": "02102000",
+        "uraian_en": "- Meat of bovine animals"
+      },
+      "sort": [
+        "02102000"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "191",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- Lain-lain, termasuk tepung dan tepung kasar dari daging atau sisanya yang dapat dimakan :",
+        "id_btbmi": 191,
+        "hs_code": null,
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.652827748Z",
+        "hs_code_format": "021090",
+        "uraian_en": "- Other, including edible flours and meals of meat or meat offal :"
+      },
+      "sort": [
+        "021090"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "192",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Dari primata",
+        "id_btbmi": 192,
+        "hs_code": "0210.91.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.652858365Z",
+        "hs_code_format": "02109100",
+        "uraian_en": "- - Of primates"
+      },
+      "sort": [
+        "02109100"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "193",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Dari paus, lumba-lumba dan porpoise (binatang menyusui dari ordo Cetacea); manate dan dugong (binatang menyusui dari ordo Sirenia); anjing laut, singa laut dan beruang laut (mamalia dari sub ordo Pinnipedia) :",
+        "id_btbmi": 193,
+        "hs_code": "0210.92",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.659513166Z",
+        "hs_code_format": "021092",
+        "uraian_en": "- - Of whales, dolphins and porpoises (mammals of the order Cetacea); of manatees and dugongs (mammals of the order Sirenia); of seals, sea lions and walruses (mammals of the suborder Pinnipedia) :"
+      },
+      "sort": [
+        "021092"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "194",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Dari paus, lumba-lumba dan porpoise (binatang menyusui dari ordo Cetacea); dari manate dan dugong (binatang menyusui dari ordo Sirenia)",
+        "id_btbmi": 194,
+        "hs_code": "0210.92.10",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.663857925Z",
+        "hs_code_format": "02109210",
+        "uraian_en": "- - - Of whales, dolphins and porpoises (mammals of the order Cetacea); of manatees and dugongs (mammals of the order Sirenia)"
+      },
+      "sort": [
+        "02109210"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "195",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Lain-lain",
+        "id_btbmi": 195,
+        "hs_code": "0210.92.90",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.652888101Z",
+        "hs_code_format": "02109290",
+        "uraian_en": "- - - Other"
+      },
+      "sort": [
+        "02109290"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "196",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Dari binatang melata (termasuk ular dan penyu)",
+        "id_btbmi": 196,
+        "hs_code": "0210.93.00",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.663878082Z",
+        "hs_code_format": "02109300",
+        "uraian_en": "- - Of reptiles (including snakes and turtles)"
+      },
+      "sort": [
+        "02109300"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "197",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - Lain-lain :",
+        "id_btbmi": 197,
+        "hs_code": "0210.99",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.663900174Z",
+        "hs_code_format": "021099",
+        "uraian_en": "- - Other :"
+      },
+      "sort": [
+        "021099"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "198",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Daging ayam dipotong berbentuk kubus, dikeringbekukan",
+        "id_btbmi": 198,
+        "hs_code": "0210.99.10",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.663931793Z",
+        "hs_code_format": "02109910",
+        "uraian_en": "- - - Freeze-dried diced chicken"
+      },
+      "sort": [
+        "02109910"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "199",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Kulit babi dikeringkan",
+        "id_btbmi": 199,
+        "hs_code": "0210.99.20",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.663962090Z",
+        "hs_code_format": "02109920",
+        "uraian_en": "- - - Dried pork skin"
+      },
+      "sort": [
+        "02109920"
+      ]
+    },
+    {
+      "_index": "insw_hscode",
+      "_id": "200",
+      "_score": null,
+      "_source": {
+        "uraian_id": "- - - Lain-lain",
+        "id_btbmi": 200,
+        "hs_code": "0210.99.90",
+        "@version": "1",
+        "bm_mfn": null,
+        "@timestamp": "2023-10-31T12:30:01.663983470Z",
+        "hs_code_format": "02109990",
+        "uraian_en": "- - - Other"
+      },
+      "sort": [
+        "02109990"
+      ]
+    }
+  ]
